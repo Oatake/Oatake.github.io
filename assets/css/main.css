@@ -1936,7 +1936,7 @@ input, select, textarea {
 			margin: -4em 0 4em -4em;
 			width: auto;
 		}
-
+		
 /* Icons */
 
 	.icon {
@@ -2009,13 +2009,13 @@ input, select, textarea {
 		}
 
 		.wrapper.style4 {
-			background-color: #303030;
-			color: #999;
+			background-color: #e090eede;
+			color: rgb(255, 255, 255);
 			text-shadow: -1px -1px 0px #181818;
 		}
 
 			.wrapper.style4 h1, .wrapper.style4 h2, .wrapper.style4 h3, .wrapper.style4 h4, .wrapper.style4 h5, .wrapper.style4 h6 {
-				color: #fff;
+				color: rgb(243, 83, 15);
 			}
 
 			.wrapper.style4 form input[type=text],
